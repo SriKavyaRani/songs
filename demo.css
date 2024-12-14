@@ -1,0 +1,20 @@
+.r1{
+    clip: rect(1px,1px,1px,1px);
+    border: 0%;
+    border-bottom-width: 0px;
+    border-top-style: initial;
+    border-bottom-style: initial;
+    border-image-width: initial;
+    border-image-slice: initial;
+    border-image-repeat: initial;
+    border-image-outset: initial;
+    border-top-color: initial;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-bottom-color: initial;
+    border-right-style:initial;
+    
+
+    
+   }
+   
